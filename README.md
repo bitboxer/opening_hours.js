@@ -759,7 +759,7 @@ This library is known to the used by the following projects:
 | [osmopeninghours][]                                              | JavaScript library which provides a more abstract, specialized API and Italian localization. It returns a JavaScript object for a given time interval (see [example.json](https://github.com/digitalxmobile-dev/osmopeninghours/blob/master/example/example.json)). |
 | [ComplexAlarm](https://github.com/ypid/ComplexAlarm)             | Java/Android. Using the JS implementation through [js-evaluator-for-android](https://github.com/evgenyneu/js-evaluator-for-android).                                                                                                                                |
 | [MapComplete](https://github.com/pietervdvn/MapComplete)         | An OpenStreetMap-editor which aims to be really simple to use by offering multiple themes                                                                                                                                                                           |
-
+| [Bookpile.org](https://bookpile.org)         | Helps to share a link where to buy or borrow any book locally.                                                                                                                                                                           |
 If you use this library please let me know.
 
 ## Projects that previously used the library
